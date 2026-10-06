@@ -18,6 +18,10 @@ man ls
 4. Create a notes.txt file
 5. Create an index.html file !
 6. Create an app.py file 
+7. new notes
+8. Git lessons 1 - 3: https://killercoda.com/pawelpiwosz/course/gitFundamentals 
+9. Lessons 1 - 7: https://killercoda.com/pawelpiwosz/course/linuxFundamentals 
+10. Vim lesson 1 https://killercoda.com/vim
 
 ## Basic git workflow
 1. git add the-file-i-changed <file2> <file3>
